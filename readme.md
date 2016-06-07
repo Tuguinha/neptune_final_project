@@ -22,6 +22,8 @@ OK, here we go.
 
 # **Retinal survival assay in** *Platynereis dumerilii*
 
+![Figure 1](./Figure1.pngraw=true)
+
 ## Introduction and Goals
 
 *The goal of my project is to answer the question, What is...?*
@@ -37,9 +39,9 @@ Simulations or other publications' data.
 
 *The tools I used were... See analysis files at (links to analysis files).*
 
-## *Results**
+## **Results**
 
-![Figure 1](./Figure1.png?raw=true)
+![Figure 1. *Platynereis dumerilii*](http://ssaft.com/Blog/dotclear/public/Platynereis/Platynereis.jpg)
 
 In Figure 1...
 

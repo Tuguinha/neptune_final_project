@@ -41,7 +41,7 @@ Simulations or other publications' data.
 
 ## **Results**
 
-![Figure 1. *Platynereis dumerilii*](http://ssaft.com/Blog/dotclear/public/Platynereis/Platynereis.jpg)
+![Figure 1. *Platynereis dumerilii*](http://ssaft.com/Blog/dotclear/public/Platynereis/Platynereis.jpg raw=true)
 
 In Figure 1...
 

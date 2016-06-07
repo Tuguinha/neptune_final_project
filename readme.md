@@ -20,23 +20,24 @@ Some guidelines and tips:
 
 OK, here we go.
 
-# Retinal survival assay in *Platynereis dumerilii*
+# **Retinal survival assay in** *Platynereis dumerilii*
 
 ## Introduction and Goals
 
-The goal of my project is to answer the question, What is...?
+*The goal of my project is to answer the question, What is...?*
 What is the best concentration of retinal to use taking into account survival time and imaging efficiency.
 
-The methods I will use to do this are...
+*The methods I will use to do this are...*
 Python followed by R plotting.
 
-The data I will use are (simulations)
+*The data I will use are* 
+Simulations or other publications' data.
 
-## Methods
+## **Methods**
 
-The tools I used were... See analysis files at (links to analysis files).
+*The tools I used were... See analysis files at (links to analysis files).*
 
-## Results
+## *Results**
 
 ![Figure 1](./Figure1.png?raw=true)
 

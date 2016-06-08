@@ -22,9 +22,12 @@ OK, here we go.
 
 # **Retinal survival assay in** *Platynereis dumerilii*
 
-![Figure 1](./Figure1.pngraw=true)
+![Figure 1. *Platynereis dumerilii*](http://ssaft.com/Blog/dotclear/public/Platynereis/Platynereis.jpg raw=true)
 
 ## Introduction and Goals
+
+
+The marine annelid *Platynereis dumerilli* 
 
 *The goal of my project is to answer the question, What is...?*
 What is the best concentration of retinal to use taking into account survival time and imaging efficiency.
@@ -40,8 +43,6 @@ Simulations or other publications' data.
 *The tools I used were... See analysis files at (links to analysis files).*
 
 ## **Results**
-
-![Figure 1. *Platynereis dumerilii*](http://ssaft.com/Blog/dotclear/public/Platynereis/Platynereis.jpg raw=true)
 
 In Figure 1...
 

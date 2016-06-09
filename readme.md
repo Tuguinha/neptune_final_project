@@ -14,17 +14,12 @@ The marine annelid *Platynereis dumerilli*
 *The goal of my project is to answer the question, What is...?*
 What is the best concentration of retinal to use taking into account survival time and imaging efficiency.
 
-*The methods I will use to do this are...*
-
 To assess the survival of Platynereis larvae after addition of the toxic retinal, Python will be used to simulate a dataset. Afterwards, this dataset will be plotted against several concentration values for better visualisation of the best concentration for future studies.
 
-*The data I will use are* 
-Simulations or other publications' data.
 
 ## **Methods**
 
-*The tools I used were... See analysis files at (links to analysis files).*
-
+The random module was used for generating numbers
 I installed SimPy
 
 

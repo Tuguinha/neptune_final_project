@@ -4,28 +4,23 @@
 
 import random
 import numpy as np
-import matplotlib.pyplot as plt
 
 
-outfile = open("test.txt","w")
+outfile = open( "test.txt","w" )
 
 
-my_randoms=[]  
-
+data = [ ]  
 Retinal = [ 0, 5, 10, 15 ] 
-
-
-dots=[]
-y=[]
 
 
 for Concentration in Retinal:
 
-	my_randoms=random.sample(range(0, 181), 31)
-	dots.append(my_randoms)
-	y.append([Concentration]*30)
+	data = random.sample( range( 0, 181 ), 31 )
 	
+
+	#print ( "{} {}\n".format( Concentration, data ))
+
 		
-	outfile.write( "{} {}\n".format(Concentration, my_randoms))
+	outfile.write( "{} {}\n".format( Concentration, data ))
 
 outfile.close()

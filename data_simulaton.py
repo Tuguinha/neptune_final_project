@@ -3,6 +3,9 @@
 #From sample
 
 import random
+import sys
+
+sys.stdout = open("test.txt","w")
 
 my_randoms=[]  
 

@@ -7,7 +7,7 @@ import random
 
 Retinal = [ 0, 5, 10, 15, 20 ] 
 for Concentration in Retinal:
-	print ()
+	print ( Concentration )
 
 
 my_randoms=[]    

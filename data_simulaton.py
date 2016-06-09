@@ -5,7 +5,7 @@
 import random
 import sys
 
-sys.stdout = open("test.txt","w")
+sys.stdout = open("test.ods","w")
 
 my_randoms=[]  
 

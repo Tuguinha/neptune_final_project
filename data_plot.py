@@ -2,6 +2,7 @@
 
 import matplotlib.pyplot as plt
 
+
 with open('data.txt', 'r') as infile:
 
 	for line in infile:
@@ -23,5 +24,6 @@ with open('data.txt', 'r') as infile:
 		plt.xlabel('Retinal Concentration')
 		plt.ylabel('Survival in minutes')
 
-	plt.show()
-	plt.savefig( ‘data_plot’ )
+	#plt.show()
+
+	plt.savefig( 'data_plot.png' )

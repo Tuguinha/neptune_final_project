@@ -1,4 +1,4 @@
-# Neptune Computational Biology - Final Project
+# :trident: Neptune Computational Biology - Final Project
 
 
 # **Retinal survival assay in** *Platynereis dumerilii*
@@ -6,7 +6,7 @@
 
 ![Figure 1 - Platynereis](./Platynereis.png?raw=true)
 
-## :star: Introduction and Goals
+##:star: Introduction and Goals
 
 The annelida phylum contains a great amount of variability in body plans. Many times, adaptation to novel environments resulted in a changes in body plan. This recurrent episodes of body plan evolution make them a good model for also understanding the evolution of Bilateria.
 
@@ -15,13 +15,13 @@ The annelida phylum contains a great amount of variability in body plans. Many t
 To assess the survival of Platynereis larvae after adding the toxic retinal, Python will be used to simulate a dataset. Afterwards, this dataset will be plotted against several concentration values for choosing the best concentration.
 
 
-## :dizzy: Methods
+## Methods
 
 The [random module](https://docs.python.org/2/library/random.html) was used for generating numbers.
 The generated data was used for plotting a graph from the [matplotlib.pyplot module](http://matplotlib.org/index.html).
 
 
-## :ok_hand: Results
+## Results
 
 
 ![Figure 2 - data_graph_fig](./data_plot.png?raw=true)
@@ -34,7 +34,7 @@ The generated data was used for plotting a graph from the [matplotlib.pyplot mod
 
 
 
-## :camel: References
+## :link: References
 
 
 1. http://link.springer.com/article/10.1007/s13127-016-0265-7

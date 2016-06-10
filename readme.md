@@ -15,28 +15,31 @@ The goal of my project is to answer the question: What is the most suitable conc
 To assess the survival of Platynereis larvae after adding the toxic retinal, Python will be used to simulate a dataset. Afterwards, this dataset will be plotted against several concentration values for choosing the best concentration.
 
 
-## **Methods**
+## Methods
 
-The [random module](https://docs.python.org/2/library/random.html) was used for generating numbers. The generated data was used for plotting a graph from the [matplotlib.pyplot module](http://matplotlib.org/index.html)
+>The [random module](https://docs.python.org/2/library/random.html) was used for generating numbers. 
+>The generated data was used for plotting a graph from the [matplotlib.pyplot module](http://matplotlib.org/index.html).
 
 
-## **Results**
+## :boom: Results
+
 
 ![Figure 2 - data_graph_fig](./data_plot.png?raw=true)
 
-## Discussion
+## :sparkles: Discussion
+
+[x] In the end I realised that data collection will be done with time points against number of dead animals.
+
+[ ] It would be cool to have (*maybe with R?*) an equation to compute significance between concentrations.
 
 
-It would be cool to have (maybe with R?) an equation to compute significance between concentrations.
 
-The colour red is not my favourite.
+## :camel: References
 
 
-## References
+1. http://link.springer.com/article/10.1007/s13127-016-0265-7
 
-http://link.springer.com/article/10.1007/s13127-016-0265-7
+2. https://www.python.org/
 
-https://www.python.org/
-
-http://matplotlib.org/index.html
+3. http://matplotlib.org/index.html
 

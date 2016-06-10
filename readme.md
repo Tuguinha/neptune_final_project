@@ -9,32 +9,34 @@
 ## Introduction and Goals
 
 The annelida phylum contains a great amount of variability in body plans. Many times, adaptation to novel environments resulted in a changes in body plan. This recurrent episodes of body plan evolution make them a good model for also understanding the evolution of Bilateria.
-The marine annelid *Platynereis dumerilli* 
 
-*The goal of my project is to answer the question, What is...?*
-What is the best concentration of retinal to use taking into account survival time and imaging efficiency.
+The goal of my project is to answer the question: What is the most suitable concentration of retinal for maximum survival?
 
-To assess the survival of Platynereis larvae after addition of the toxic retinal, Python will be used to simulate a dataset. Afterwards, this dataset will be plotted against several concentration values for better visualisation of the best concentration for future studies.
+To assess the survival of Platynereis larvae after adding the toxic retinal, Python will be used to simulate a dataset. Afterwards, this dataset will be plotted against several concentration values for choosing the best concentration.
 
 
 ## **Methods**
 
-The random module was used for generating numbers
-I installed SimPy
+The random module was used for generating numbers. The generated data was used for plotting a graph from the matplotlib.pyplot module.
 
 
 ## **Results**
 
-In Figure 1...
+![Figure 2 - data_graph_fig](./data_plot.png?raw=true)
 
 ## Discussion
 
-These results indicate...
 
-The biggest difficulty in implementing these analyses was...
+It would be cool to have (maybe with R?) an equation to compute significance between concentrations.
 
-If I did these analyses again, I would...
+The colour red is not my favourite.
+
 
 ## References
 
+http://link.springer.com/article/10.1007/s13127-016-0265-7
+
+https://www.python.org/
+
+http://matplotlib.org/index.html
 

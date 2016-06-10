@@ -3,7 +3,7 @@
 #random sample generation for retinal concentration
 
 import random
-import numpy as np
+#import numpy as np
 
 
 outfile = open( "data.txt","w" )

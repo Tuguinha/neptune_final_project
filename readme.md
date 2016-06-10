@@ -17,7 +17,7 @@ To assess the survival of Platynereis larvae after adding the toxic retinal, Pyt
 
 ## **Methods**
 
-The random module was used for generating numbers. The generated data was used for plotting a graph from the matplotlib.pyplot module.
+The [random module](https://docs.python.org/2/library/random.html) was used for generating numbers. The generated data was used for plotting a graph from the [matplotlib.pyplot module](http://matplotlib.org/index.html)
 
 
 ## **Results**

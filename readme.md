@@ -17,7 +17,7 @@ To assess the survival of Platynereis larvae after adding the toxic retinal, Pyt
 
 ## Methods
 
-The [random module](https://docs.python.org/2/library/random.html) was used for generating numbers.\n
+The [random module](https://docs.python.org/2/library/random.html) was used for generating numbers.
 The generated data was used for plotting a graph from the [matplotlib.pyplot module](http://matplotlib.org/index.html).
 
 
@@ -28,9 +28,9 @@ The generated data was used for plotting a graph from the [matplotlib.pyplot mod
 
 ## :sparkles: Discussion
 
-[x] In the end I realised that data collection will be done with time points against number of dead animals.
+- [x] In the end I realised that data collection will be done with time points against number of dead animals.
 
-[ ] It would be cool to have (*maybe with R?*) an equation to compute significance between concentrations.
+- [ ] It would be cool to have (*maybe with R?*) an equation to compute significance between concentrations.
 
 
 
@@ -38,8 +38,6 @@ The generated data was used for plotting a graph from the [matplotlib.pyplot mod
 
 
 1. http://link.springer.com/article/10.1007/s13127-016-0265-7
-
 2. https://www.python.org/
-
 3. http://matplotlib.org/index.html
 
